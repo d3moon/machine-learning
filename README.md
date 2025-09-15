@@ -1,4 +1,3 @@
-
 <div align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" alt="IA Icon" width="100"/>
   
@@ -10,8 +9,8 @@ Este repositório contém estudos, exemplos e anotações para auxiliar nos estu
 ## Estrutura do Projeto
 
 - `LinearRegression/` — Exemplos relacionados à regressão linear e outros conceitos básicos.
-    - `example1.py` — Demonstra operações com arrays NumPy, cálculo de média, desvio padrão e correlação de Pearson.
-    - `example2.py` — (Adicione uma breve descrição do conteúdo deste arquivo, se desejar)
+  - `example1.py` — Demonstra operações com arrays NumPy, cálculo de média, desvio padrão e correlação de Pearson.
+  - `example2.py` — (Adicione uma breve descrição do conteúdo deste arquivo, se desejar)
 
 ## Como Executar
 
@@ -29,6 +28,7 @@ Este repositório contém estudos, exemplos e anotações para auxiliar nos estu
 ## Observações
 
 - Este repositório é voltado para fins educacionais e experimentação.
+
 ---
 
 ### Author
